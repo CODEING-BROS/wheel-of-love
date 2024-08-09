@@ -1,5 +1,5 @@
 const febHolidays = [
-    "Dear Baby,",
+    "Dear Ayesha,",
     "First of all, I love you❤️",
     "You're my everything",
     "You are my soulmate",
@@ -19,15 +19,15 @@ const febHolidays = [
     "There's no one better than you❤️",
     "You're the best baby!!",
     "Or should I say, mo gro coco d'amour que j'adore a la folie XD",
-    "Wow!! Time flies, we've already been together for a month",
+    "Wow!! Time flies, we've already been together for more than a year ",
     "There's some hardships,",
     "but we overcame most of them",
     "and it made me realised how important you are in my life❤️",
-    "This for you,",
-    "To l'amour",
-    "ek mo l'amour",
-    "fr 2 liv pomme d'amour🤣❤️",
-    "But anyways, Happy 1 month my sweet little girlfriend(wife🤭)",
+    "I’ve fallen in love many times… but always with you.",
+    "Every moment with you feels like an eternity of happiness.",
+    "I would rather spend one lifetime with you than face all the ages of this world alone.",
+    "Your laughter is my favorite symphony, and your smile, my greatest masterpiece",
+    "But anyways, Happy 1 Year And 1 month my sweet little girlfriend(wife🤭)",
     "You're the love of my life,",
     "I Love You So much❤️"
   ];
